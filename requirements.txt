@@ -1,0 +1,12 @@
+pdfplumber
+PyMuPDF
+python-docx
+langchain
+langchain-google-genai
+google-generativeai
+chromadb
+spacy
+streamlit
+python-dotenv
+pandas
+fpdf
